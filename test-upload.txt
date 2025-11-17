@@ -1,0 +1,27 @@
+This is a test manuscript file for the Writing Companion app.
+
+Chapter 1: The Beginning
+
+It was a dark and stormy night when the adventure began. Our protagonist, a young writer, sat at their computer, working on their latest fantasy novel. The world they were creating was full of magic, mystery, and complex characters.
+
+The writing process was challenging but rewarding. With each word, the story came to life, and the characters began to take on personalities of their own. The magic system was intricate, with rules and limitations that added depth to the narrative.
+
+As the writer continued their work, they realized they needed a way to organize all the details of their complex world. Characters, magic rules, plot threads, and themes all needed to be tracked and managed.
+
+That's when they discovered the Writing Companion app - a tool designed specifically for fantasy authors to manage their creative projects.
+
+Chapter 2: Discovery
+
+The Writing Companion offered everything the writer needed:
+- Project management with customizable genres and status tracking
+- Character databases with POV roles and relationship mapping
+- Magic system documentation with consistency checking
+- Manuscript upload and AI-powered analysis
+- Worldbuilding tools for locations, factions, and timelines
+
+This tool would revolutionize their writing process, providing structure and organization to their creative chaos.
+
+The End.
+
+Word count: Approximately 200 words.
+This is a test file to verify PDF, DOCX, TXT, and EPUB upload functionality works correctly in the Writing Companion app.
